@@ -1,0 +1,186 @@
+{
+    "NAV": {
+        "NAVIGATION": {
+            "TITLE": "Navigation",
+            "SAMPLE": {
+                "TITLE": "Exemple",
+                "BADGE": "25"
+            },
+            "DASHBOARD": "Tableau de bord"
+        },
+        "INFORMATIONS": {
+            "TITLE": "Informations",
+            "DAILY_MESSAGE": "Le message du jour",
+            "PUSH_INFORMATION": "Pousser-information",
+            "IDEA": "Boite à idées",
+            "PROJECT": "Projets proposés",
+            "PUSH_HISTORY": "Pousser histoire"
+        },
+        "QUESTIONNAIRES": {
+            "TITLE": "Questionnaires",
+            "MY_QUESTIONNAIRES": "Mes Questionnaires"
+        },
+        "ADMINISTRATION": {
+            "TITLE": "Administration",
+            "MY_SOCIETY": {
+                "TITLE": "Ma société",
+                "USERS": {
+                    "TITLE": "Utilisateurs",
+                    "ALL_USERS": "Tous les utilisateurs"
+                },
+                "GROUPS": {
+                    "TITLE": "Groupes",
+                    "ALL_GROUPS": "Tous les groupes"
+                },
+                "OTHERS": {
+                    "TITLE": "Autres",
+                    "DEPARTMENT": "Département",
+                    "IDEA": "Boite à idées",
+                    "FEEDBACK": "Retour d'information",
+                    "CHANGE_PASSWORD": "Changer le mot de passe",
+                    "CONFIG": "Configuration"
+                }
+            },
+            "SUPER_ADMIN": {
+                "TITLE": "Super administrateur",
+                "COMPANIES": {
+                    "TITLE": "Entreprises",
+                    "COMPANY_LIST": "Liste d'entreprises",
+                    "USERS": "Utilisateurs",
+                    "GROUPS": "Groupes"
+                },
+                "CONTENTS": {
+                    "TITLE": "Contenu",
+                    "QUESTIONNAIRES": "Questionnaires",
+                    "DAILY_MESSAGE": "Le message du jour",
+                    "IDEA": "Boite à idées",
+                    "PROJECT": "Projet"
+                }
+            }
+        }
+    },
+    "COLUMNS": {
+        "IDEA": "Idée",
+        "GUESTS": "Invités",
+        "GROUP": "Groupe",
+        "ACTIONS": "Actes",
+        "SCORE": "Score",
+        "VOTES": "Nombre de votants",
+        "NAME": "Nom",
+        "USER": "Utilisateur",
+        "EMAIL": "Email",
+        "DESCRIPTION": "Description",
+        "VALIDATION": "Validation",
+        "ACTIVE": "Actif",
+        "COMPANY": "Entreprise",
+        "ROLE": "Rôle",
+        "PROJECT": "Projet",
+        "CREATOR": "Créateur",
+        "STARS": "Étoiles",
+        "PARTICIPANTS": "Participant(s)",
+        "NON-PARTICIPANTS": "Non-Participant(s)",
+        "DATA": "Données",
+        "SENT_TIME": "Heure d'envoi",
+        "VISUALIZATION": "Visualisation",
+        "FIRST_NAME": "Prénom",
+        "LAST_NAME": "Nom",
+        "TEAM": "Équipe",
+        "MESSAGE": "Message",
+        "LOGO": "Logo",
+        "MORE": "Plus",
+        "IS_LOGIN_AS": "Se connecter en tant que",
+        "CREATED_AT": "Créé à",
+        "UPDATED_AT": "Mis à jour à",
+        "VALID": "Valide"
+    },
+    "TITLE": {
+        "EDIT_MESSAGE_OF_THE_DAY": "Éditer le message du jour",
+        "SEND_A_PUSH_MESSAGE": "ENVOYER UN MESSAGE",
+        "LAST_PUSHS_SENT": "DERNIÈRES INFORMATIONS ENVOYÉES",
+        "IDEAS": "IDÉES",
+        "PROJECTS": "PROJETS",
+        "PUSH_HISTORY": "POUSSER HISTOIRE",
+        "MY_QUESTIONNAIRES": "MES QUESTIONNAIRES",
+        "USERS": "UTILISATEURS",
+        "GROUPS": "GROUPES",
+        "DEPARTMENTS": "DÉPARTEMENTS",
+        "FEEDBACKS": "RETOUR D'INFORMATION",
+        "CHANGE_PASSWORD": "CHANGER LE MOT DE PASSE",
+        "CONFIG": "CONFIG",
+        "ADMIN_COMPANIES": "ADMIN ENTREPRISES",
+        "ADMIN_USERS": "ADMIN UTILISATEURS",
+        "ADMIN_GROUPS": "ADMIN GROUPES",
+        "ADMIN_QUESTIONNAIRES": "ADMIN QUESTIONNAIRES",
+        "ADMIN_DAILY_MESSAGES": "ADMIN LE MESSAGE DU JOUR",
+        "ADMIN_IDEAS": "ADMIN IDÉES",
+        "ADMIN_PROJECTS": "ADMIN PROJETS",
+        "NEW_USER": "NOUVEAU UTILISATEUR",
+        "NEW_GROUP": "NOUVEAU GROUPE",
+        "NEW_QUESTIONNAIRE": "NOUVEAU QUESTIONNAIRE",
+        "NEW_ADMIN_USER": "NOUVEAU ADMIN UTILISATEUR",
+        "NEW_ADMIN_GROUP": "NOUVEAU ADMIN GROUPE",
+        "NEW_ADMIN_COMPANY": "NOUVEAU ADMIN ENTREPRISE",
+        "NEW_DEPARTMENT": "NOUVEAU DÉPARTEMENT",
+        "EDIT_PROFILE": "Editer le profil"
+    },
+    "LABEL": {
+        "MESSAGE_OF_THE_DAY": "Le message du jour",
+        "USER": "Utilisateur",
+        "GROUP": "Groupe",
+        "PUSH_EVERY": "Périodicité d’envoi",
+        "DATE_FOR_BEGINNING_SEND_QUESTION": "Date du début de la question d'envoi",
+        "ASSIGN_ALL_GROUPS": "Assigner tous les groupes",
+        "TITLE": "Titre",
+        "DESCRIPTION": "Description",
+        "NAME": "Nom",
+        "FIRST_NAME": "Prénom",
+        "LAST_NAME": "Nom",
+        "EMAIL": "Email",
+        "TYPE": "Type",
+        "PASSWORD": "Mot de passe",
+        "CONFIRM_PASSWORD": "Confirmez le mot de passe",
+        "PHONE_NUMBER": "Numéro de téléphone",
+        "COMPANY": "Entreprise",
+        "DEPARTMENT": "Département",
+        "PERCENTAGE": "Pourcentage(%)",
+        "AUTO_APPROVE": "Approuver automatiquement",
+        "IDEA": "Idée",
+        "PROJECT": "Projet",
+        "ACTIVE": "Actif"
+    },
+    "BUTTON": {
+        "UPDATE": "METTRE À JOUR",
+        "CREATE": "CRÉER",
+        "CANCEL": "ANNULER",
+        "DONE": "Terminé",
+        "EDIT": "Éditer",
+        "DELETE": "Supprimer",
+        "SEND": "ENVOYER",
+        "SUBMIT": "SOUMETTRE",
+        "ADD_THE_QUESTIONNAIRE": "AJOUTER LE QUESTIONNAIRE",
+        "DOWNLOAD_IDEAS_EXCEL": "TÉLÉCHARGER IDÉES EXCEL",
+        "DOWNLOAD_PROJECTS_EXCEL": "TÉLÉCHARGER PROJETS EXCEL",
+        "DOWNLOAD_PUSH_HISTORY_EXCEL": "TÉLÉCHARGER POUSSER HISTOIRE EXCEL",
+        "NEW": "Nouveau {{type}}",
+        "UPLOAD_A_FILE": "Importer un fichier",
+        "CHOOSE_LOGO": "Choisir logo",
+        "IMPORT_QUESTIONNAIRES": "Importer questionnaires",
+        "CHANGE_PASSWORD": "CHANGER LE MOT DE PASSE"
+    },
+    "LANGUAGES": {
+        "ENGLISH": "Anglais",
+        "FRANCE": "France"
+    },
+    "ROLE": {
+        "user": "Utilisateur",
+        "admin": "administrateur",
+        "super_admin": "Super administrateur",
+        "enterprise_admin": "Administrateur d'entreprise",
+        "iwell_admin": "Iwell administrateur"
+    },
+    "MESSAGE": {
+        "createSuccessful": "Créé avec succès!",
+        "updateSuccessful": "Mis à jour avec succés!",
+        "deleteSuccessful": "Supprimé avec succès!"
+    }
+}

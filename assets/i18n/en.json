@@ -1,0 +1,186 @@
+{
+    "NAV": {
+        "NAVIGATION": {
+            "TITLE": "Navigation",
+            "SAMPLE": {
+                "TITLE": "Sample",
+                "BADGE": "25"
+            },
+            "DASHBOARD": "Dashboard"
+        },
+        "INFORMATIONS": {
+            "TITLE": "Informations",
+            "DAILY_MESSAGE": "Message of the day",
+            "PUSH_INFORMATION": "Push-information",
+            "IDEA": "Idea",
+            "PROJECT": "Project",
+            "PUSH_HISTORY": "Push history"
+        },
+        "QUESTIONNAIRES": {
+            "TITLE": "Questionnaires",
+            "MY_QUESTIONNAIRES": "My Questionnaires"
+        },
+        "ADMINISTRATION": {
+            "TITLE": "Administration",
+            "MY_SOCIETY": {
+                "TITLE": "My society",
+                "USERS": {
+                    "TITLE": "Users",
+                    "ALL_USERS": "All users"
+                },
+                "GROUPS": {
+                    "TITLE": "Groups",
+                    "ALL_GROUPS": "All groups"
+                },
+                "OTHERS": {
+                    "TITLE": "Others",
+                    "DEPARTMENT": "Department",
+                    "IDEA": "Idea",
+                    "FEEDBACK": "Feedback",
+                    "CHANGE_PASSWORD": "Change password",
+                    "CONFIG": "Config"
+                }
+            },
+            "SUPER_ADMIN": {
+                "TITLE": "Super admin",
+                "COMPANIES": {
+                    "TITLE": "Companies",
+                    "COMPANY_LIST": "Company list",
+                    "USERS": "Users",
+                    "GROUPS": "Groups"
+                },
+                "CONTENTS": {
+                    "TITLE": "Contents",
+                    "QUESTIONNAIRES": "Questionnaires",
+                    "DAILY_MESSAGE": "Message of the day",
+                    "IDEA": "Idea",
+                    "PROJECT": "Project"
+                }
+            }
+        }
+    },
+    "COLUMNS": {
+        "IDEA": "Idea",
+        "GUESTS": "Guests",
+        "GROUP": "Group",
+        "ACTIONS": "Actions",
+        "SCORE": "Score",
+        "VOTES": "Votes",
+        "NAME": "Name",
+        "USER": "User",
+        "EMAIL": "Email",
+        "DESCRIPTION": "Description",
+        "VALIDATION": "Validation",
+        "ACTIVE": "Active",
+        "COMPANY": "Company",
+        "ROLE": "Role",
+        "PROJECT": "Project",
+        "CREATOR": "Creator",
+        "STARS": "Stars",
+        "PARTICIPANTS": "Participant(s)",
+        "NON-PARTICIPANTS": "Non-Participant(s)",
+        "DATA": "Data",
+        "SENT_TIME": "Sent time",
+        "VISUALIZATION": "Visualization",
+        "FIRST_NAME": "First name",
+        "LAST_NAME": "Last name",
+        "TEAM": "Team",
+        "MESSAGE": "Message",
+        "LOGO": "Logo",
+        "MORE": "More",
+        "IS_LOGIN_AS": "Is login as",
+        "CREATED_AT": "Created at",
+        "UPDATED_AT": "Updated at",
+        "VALID": "Valid"
+    },
+    "TITLE": {
+        "EDIT_MESSAGE_OF_THE_DAY": "Edit message of the day",
+        "SEND_A_PUSH_MESSAGE": "SEND A PUSH MESSAGE",
+        "LAST_PUSHS_SENT": "LAST PUSHS SENT",
+        "IDEAS": "IDEAS",
+        "PROJECTS": "PROJECTS",
+        "PUSH_HISTORY": "PUSH HISTORY",
+        "MY_QUESTIONNAIRES": "MY QUESTIONNAIRES",
+        "USERS": "USERS",
+        "GROUPS": "GROUPS",
+        "DEPARTMENTS": "DEPARTMENTS",
+        "FEEDBACKS": "FEEDBACKS",
+        "CHANGE_PASSWORD": "CHANGE PASSWORD",
+        "CONFIG": "CONFIG",
+        "ADMIN_COMPANIES": "ADMIN COMPANIES",
+        "ADMIN_USERS": "ADMIN USERS",
+        "ADMIN_GROUPS": "ADMIN GROUPS",
+        "ADMIN_QUESTIONNAIRES": "ADMIN QUESTIONNAIRES",
+        "ADMIN_DAILY_MESSAGES": "ADMIN DAILY MESSAGES",
+        "ADMIN_IDEAS": "ADMIN IDEAS",
+        "ADMIN_PROJECTS": "ADMIN PROJECTS",
+        "NEW_USER": "NEW USER",
+        "NEW_GROUP": "NEW GROUP",
+        "NEW_QUESTIONNAIRE": "NEW QUESTIONNAIRE",
+        "NEW_ADMIN_USER": "NEW ADMIN USER",
+        "NEW_ADMIN_GROUP": "NEW ADMIN GROUP",
+        "NEW_ADMIN_COMPANY": "NEW ADMIN COMPANY",
+        "NEW_DEPARTMENT": "NEW DEPARTMENT",
+        "EDIT_PROFILE": "Edit profile"
+    },
+    "LABEL": {
+        "MESSAGE_OF_THE_DAY": "Message of the day",
+        "USER": "User",
+        "GROUP": "Group",
+        "PUSH_EVERY": "Push every",
+        "DATE_FOR_BEGINNING_SEND_QUESTION": "Date for beginning send question",
+        "ASSIGN_ALL_GROUPS": "Assign all groups",
+        "TITLE": "Title",
+        "DESCRIPTION": "Description",
+        "NAME": "Name",
+        "FIRST_NAME": "First name",
+        "LAST_NAME": "Last name",
+        "ROLE": "Role",
+        "EMAIL": "Email",
+        "TYPE": "Type",
+        "PASSWORD": "Password",
+        "CONFIRM_PASSWORD": "Confirm password",
+        "PHONE_NUMBER": "Phone number",
+        "COMPANY": "Company",
+        "DEPARTMENT": "Department",
+        "PERCENTAGE": "Percentage(%)",
+        "AUTO_APPROVE": "Automatically approve",
+        "IDEA": "Idea",
+        "PROJECT": "Project",
+        "ACTIVE": "Active"
+    },
+    "BUTTON": {
+        "UPDATE": "UPDATE",
+        "CREATE": "CREATE",
+        "DONE": "Done",
+        "EDIT": "Edit",
+        "DELETE": "Delete",
+        "CANCEL": "CANCEL",
+        "SEND": "SEND",
+        "SUBMIT": "SUBMIT",
+        "ADD_THE_QUESTIONNAIRE": "ADD THE QUESTIONNAIRE",
+        "DOWNLOAD_IDEAS_EXCEL": "DOWNLOAD IDEAS EXCEL",
+        "DOWNLOAD_PROJECTS_EXCEL": "DOWNLOAD PROJECTS EXCEL",
+        "DOWNLOAD_PUSH_HISTORY_EXCEL": "DOWNLOAD PUSH HISTORY EXCEL",
+        "NEW": "New {{type}}",
+        "UPLOAD_A_FILE": "Upload a file",
+        "CHOOSE_LOGO": "Choose logo",
+        "IMPORT_QUESTIONNAIRES": "Import questionnaires",
+        "CHANGE_PASSWORD": "CHANGE PASSWORD"
+    },
+    "LANGUAGES": {
+        "ENGLISH": "English",
+        "FRANCE": "France"
+    },
+    "ROLE": {
+        "1": "User",
+        "2": "Admin",
+        "3": "Enterprise admin",
+        "4": "Super admin"
+    },
+    "MESSAGE": {
+        "createSuccessful": "Created successfully!",
+        "updateSuccessful": "Updated successfully!",
+        "deleteSuccessful": "Deleted successfully!"
+    }
+}

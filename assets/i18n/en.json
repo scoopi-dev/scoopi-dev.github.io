@@ -176,7 +176,8 @@
         "1": "User",
         "2": "Admin",
         "3": "Enterprise admin",
-        "4": "Super admin"
+        "4": "Iwell admin",
+        "5": "Super admin"
     },
     "MESSAGE": {
         "createSuccessful": "Created successfully!",

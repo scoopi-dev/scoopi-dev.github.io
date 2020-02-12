@@ -123,7 +123,10 @@
         "NEW_ADMIN_COMPANY": "NEW ADMIN COMPANY",
         "NEW_DEPARTMENT": "NEW DEPARTMENT",
         "EDIT_DEPARTMENT": "EDIT DEPARTMENT",
-        "EDIT_PROFILE": "Edit profile"
+        "EDIT_PROFILE": "Edit profile",
+        "GO_BACK_TO_LOGIN": "Go back to login",
+        "RECOVER_YOUR_PASSWORD": "RECOVER YOUR PASSWORD",
+        "RESET_YOUR_PASSWORD": "RESET YOUR PASSWORD"
     },
     "LABEL": {
         "MESSAGE_OF_THE_DAY": "Message of the day",
@@ -139,6 +142,7 @@
         "LAST_NAME": "Last name",
         "ROLE": "Role",
         "EMAIL": "Email",
+        "CODE": "Code",
         "TYPE": "Type",
         "PASSWORD": "Password",
         "CONFIRM_PASSWORD": "Confirm password",
@@ -160,6 +164,7 @@
         "CANCEL": "CANCEL",
         "SEND": "SEND",
         "SUBMIT": "SUBMIT",
+        "RESET_PASSWORD": "RESET PASSWORD",
         "ADD_THE_QUESTIONNAIRE": "ADD THE QUESTIONNAIRE",
         "DOWNLOAD_IDEAS_EXCEL": "DOWNLOAD IDEAS EXCEL",
         "DOWNLOAD_PROJECTS_EXCEL": "DOWNLOAD PROJECTS EXCEL",
@@ -168,7 +173,8 @@
         "UPLOAD_A_FILE": "Upload a file",
         "CHOOSE_LOGO": "Choose logo",
         "IMPORT_QUESTIONNAIRES": "Import questionnaires",
-        "CHANGE_PASSWORD": "CHANGE PASSWORD"
+        "CHANGE_PASSWORD": "CHANGE PASSWORD",
+        "RESET_MY_PASSWORD": "RESET MY PASSWORD"
     },
     "LANGUAGES": {
         "ENGLISH": "English",
@@ -184,6 +190,11 @@
     "MESSAGE": {
         "createSuccessful": "Created successfully!",
         "updateSuccessful": "Updated successfully!",
-        "deleteSuccessful": "Deleted successfully!"
+        "deleteSuccessful": "Deleted successfully!",
+        "EMAIL_IS_REQUIRED": "Email is required",
+        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Please enter a valid email address",
+        "PASSWORD_IS_REQUIRED": "Password is required",
+        "PASSWORD_CONFIRM_IS_REQUIRED": "Password confirmation is required",
+        "PASSWORD_MUST_MATCH": "Passwords must match"
     }
 }

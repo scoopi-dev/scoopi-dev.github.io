@@ -123,7 +123,10 @@
         "NEW_ADMIN_COMPANY": "NOUVEAU ADMIN ENTREPRISE",
         "NEW_DEPARTMENT": "NOUVEAU DÉPARTEMENT",
         "EDIT_DEPARTMENT": "MODIFIER LE DÉPARTEMENT",
-        "EDIT_PROFILE": "Editer le profil"
+        "EDIT_PROFILE": "Editer le profil",
+        "GO_BACK_TO_LOGIN": "Revenir à la connexion",
+        "RECOVER_YOUR_PASSWORD": "RECUPEREZ VOTRE MOT DE PASSE",
+        "RESET_YOUR_PASSWORD": "RÉINITIALISER VOTRE MOT DE PASSE"
     },
     "LABEL": {
         "MESSAGE_OF_THE_DAY": "Le message du jour",
@@ -148,7 +151,8 @@
         "AUTO_APPROVE": "Approuver automatiquement",
         "IDEA": "Idée",
         "PROJECT": "Projet",
-        "ACTIVE": "Actif"
+        "ACTIVE": "Actif",
+        "CODE": "Code"
     },
     "BUTTON": {
         "UPDATE": "METTRE À JOUR",
@@ -167,7 +171,9 @@
         "UPLOAD_A_FILE": "Importer un fichier",
         "CHOOSE_LOGO": "Choisir logo",
         "IMPORT_QUESTIONNAIRES": "Importer questionnaires",
-        "CHANGE_PASSWORD": "CHANGER LE MOT DE PASSE"
+        "CHANGE_PASSWORD": "CHANGER LE MOT DE PASSE",
+        "RESET_MY_PASSWORD": "RÉINITIALISER MON MOT DE PASSE",
+        "RESET_PASSWORD": "RÉINITIALISER LE MOT DE PASSE"
     },
     "LANGUAGES": {
         "ENGLISH": "Anglais",
@@ -183,6 +189,11 @@
     "MESSAGE": {
         "createSuccessful": "Créé avec succès!",
         "updateSuccessful": "Mis à jour avec succés!",
-        "deleteSuccessful": "Supprimé avec succès!"
+        "deleteSuccessful": "Supprimé avec succès!",
+        "EMAIL_IS_REQUIRED": "L'email est requis",
+        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Veuillez saisir une adresse e-mail valide",
+        "PASSWORD_IS_REQUIRED": "Un mot de passe est requis",
+        "PASSWORD_CONFIRM_IS_REQUIRED": "La confirmation du mot de passe est requise",
+        "PASSWORD_MUST_MATCH": "Les mots de passe doivent correspondre"
     }
 }

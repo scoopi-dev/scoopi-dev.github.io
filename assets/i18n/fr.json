@@ -25,8 +25,7 @@
         "CREATE_CATEGORY": "Créer une nouvelle catégorie",
         "UPDATE_IMAGE": "Mettre à jour l'image",
         "CREATE_IMAGE": "Créer une image",
-        "CHOOSE_DONGLE_CATEGORY": "Choisir une catégorie d’écran",
-        "ADD_USER_TO_GROUP": "Ajouter un utilisateur au groupe"
+        "CHOOSE_DONGLE_CATEGORY": "Choisir une catégorie d’écran"
     },
     "ROLE": {
         "admin": "Admin",
@@ -169,15 +168,5 @@
     "FORGOT_PASSWORD": "Mot de passe oublié?",
     "DONT_HAVE_ACCOUNT": "Je n'ai pas de compte?",
     "CREATE_ACCOUNT": "Créer un compte",
-    "CONFIRM_MESSAGE": "Etes-vous sûr que vous voulez supprimer?",
-    "SELECT_ALL_USERS": "SÉLECTIONNEZ TOUS LES UTILISATEURS",
-    "CHECK_MAIL_TO_RESET_PASSWORD": "S'il vous plaît vérifier votre courrier pour réinitialiser le mot de passe!",
-    "USER_WAS_CREATED": "User {{email}} was created",
-    "USER_WAS_UPDATED": "L'utilisateur {{email}} a été mis à jour",
-    "DONGLE_WAS_CREATED": "Le dongle {{name}} a été créé",
-    "DONGLE_WAS_UPDATED": "Le dongle {{name}} a été mis à jour",
-    "GROUP_WAS_CREATED": "Le groupe {{name}} a été créé",
-    "CATEGORY_WAS_CHOSEN": "La catégorie a été choisie",
-    "DONGLE_WAS_DELETED": "Le dongle a été supprimé",
-    "USER_WAS_DELETED": "L'utilisateur a été supprimé"
+    "CONFIRM_MESSAGE": "Etes-vous sûr que vous voulez supprimer?"
 }
